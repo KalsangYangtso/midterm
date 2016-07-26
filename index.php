@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h2> This is a web page created as part of the midterm exam</h2>
+        
            <h2> This is a web page created as part of the midterm exam</h2>
     </body>
 </html>
